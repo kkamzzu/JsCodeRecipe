@@ -9,7 +9,7 @@
 - x += y -> x = x + y
 - x -= y -> x = x - y
 - x *= y -> x = x * y
-- x **= y -> x = x ** y
+- x **= y -> x = x ** yu 76v56
 - x /= y -> x = x / y
 - x %= y -> x = x % y
 
